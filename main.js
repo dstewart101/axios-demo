@@ -59,6 +59,7 @@ function clearOutput() {
     resultElement.innerHTML = '';
     var resultElement = document.getElementById('postResult');
     resultElement.innerHTML = '';
+    document.getElementById('toDoTitle').value = '';
 }
 
 function generateSuccessHTMLOutput(response) {
