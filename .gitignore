@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/AxiosDemo/v14/.suo
+/axios-demo.sln
+/.vs/config/applicationhost.config
+/.vs/axios-demo/v14
